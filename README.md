@@ -2,32 +2,38 @@
 
 This is a simple and responsive **Todo List application** built using **React**. It allows users to:
 
-* Add tasks with priority levels
-* Mark tasks as completed
-* Filter tasks (All / Active / Completed)
-* Clear completed tasks
-* Store tasks in the browser using `localStorage` (no backend or database needed)
+- Add tasks with priority levels
+- Mark tasks as completed
+- Filter tasks (All / Active / Completed)
+- Clear completed tasks
+- Store tasks in the browser using `localStorage` (no backend or database needed)
+
+---
+
+✨ Explore the live demo, add tasks, toggle priorities, and manage your day—all in your browser.
+
+[![Open Playground](https://img.shields.io/badge/Try%20Now-Playground-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://maheshmthorat.github.io/Todo-List/)
 
 ---
 
 ## 🛠️ Features
 
-* ✅ Add new tasks
-* ✅ Assign task priority (High / Medium / Low)
-* ✅ Toggle task completion
-* ✅ Filter view by task status
-* ✅ Clear completed tasks
-* ✅ Tasks saved in browser using `localStorage`
-* ✅ Responsive and clean UI
+- ✅ Add new tasks
+- ✅ Assign task priority (High / Medium / Low)
+- ✅ Toggle task completion
+- ✅ Filter view by task status
+- ✅ Clear completed tasks
+- ✅ Tasks saved in browser using `localStorage`
+- ✅ Responsive and clean UI
 
 ---
 
 ## 🧩 Tech Stack
 
-* **React**
-* **HTML5 / CSS3**
-* **Bootstrap / Custom Styling**
-* **localStorage API**
+- **React**
+- **HTML5 / CSS3**
+- **Bootstrap / Custom Styling**
+- **localStorage API**
 
 ---
 
@@ -35,7 +41,7 @@ This is a simple and responsive **Todo List application** built using **React**.
 
 ### Prerequisites
 
-* Node.js and npm installed on your system.
+- Node.js and npm installed on your system.
 
 ### Installation
 
@@ -85,17 +91,17 @@ todo-list/
 
 All tasks are saved to your browser's `localStorage`. This means:
 
-* Your tasks will persist across page reloads.
-* Clearing browser data or using incognito mode will reset the list.
+- Your tasks will persist across page reloads.
+- Clearing browser data or using incognito mode will reset the list.
 
 ---
 
 ## ✨ Future Improvements
 
-* ✏️ Edit task functionality
-* 📅 Due date for tasks
-* ☁️ Sync with backend (Node.js + MySQL)
-* 🌓 Light/Dark theme toggle
+- ✏️ Edit task functionality
+- 📅 Due date for tasks
+- ☁️ Sync with backend (Node.js + MySQL)
+- 🌓 Light/Dark theme toggle
 
 ---
 
